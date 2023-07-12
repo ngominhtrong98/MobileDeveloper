@@ -71102,7 +71102,7 @@ $2(a,b){return new A.tj(new A.a3k(b),null)},
 $S:416}
 A.a3k.prototype={
 $3(a,b,c){var s=this.a.a?$.auP():$.auO()
-return new A.oh(A.b_(["/",new A.a3j()],t.N,t.Ab),"/","CV Ng\xf4 Minh Tr\u1ecdng...",s,!1,null)},
+return new A.oh(A.b_(["/",new A.a3j()],t.N,t.Ab),"/","CV Ng\xf4 Minh Tr\u1ecdng",s,!1,null)},
 $C:"$3",
 $R:3,
 $S:417}
